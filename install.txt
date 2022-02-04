@@ -1,0 +1,5 @@
+requests
+random
+user-agent
+webbrowser
+termux-api
